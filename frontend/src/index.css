@@ -1,0 +1,51 @@
+/* ============================================
+   FILE INTEGRITY GUARDIAN — Global Styles
+   Dark Cybersecurity Theme (Black + Neon Blue)
+   File: frontend/src/index.css
+   ============================================ */
+
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Body — the darkest background */
+body {
+  background: #0a0a14;
+  color: #e0e0e0;
+  font-family: 'Segoe UI', system-ui, -apple-system, sans-serif;
+  line-height: 1.6;
+}
+
+/* Custom scrollbar — thin and subtle */
+::-webkit-scrollbar {
+  width: 6px;
+}
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+::-webkit-scrollbar-thumb {
+  background: #252540;
+  border-radius: 3px;
+}
+
+/* Remove default button styles */
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none;
+}
+
+/* Remove default input styles */
+input, select {
+  font-family: inherit;
+  outline: none;
+}
+
+/* Remove default table spacing */
+table {
+  border-spacing: 0;
+}
