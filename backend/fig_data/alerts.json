@@ -1,0 +1,27 @@
+[
+  {
+    "time": "2026-03-24T11:44:55.260124",
+    "type": "info",
+    "msg": "Baseline created: 21 files scanned, 0 errors (SHA-256)"
+  },
+  {
+    "time": "2026-03-24T11:51:14.043151",
+    "type": "danger",
+    "msg": "VIOLATION: C:\\Users\\gauravk\\Documents\\Test-File.txt \u2014 hash mismatch (high risk)"
+  },
+  {
+    "time": "2026-03-24T11:52:14.364562",
+    "type": "danger",
+    "msg": "VIOLATION: C:\\Users\\gauravk\\Documents\\Test-File.txt \u2014 hash mismatch (high risk)"
+  },
+  {
+    "time": "2026-03-24T11:53:14.374114",
+    "type": "danger",
+    "msg": "VIOLATION: C:\\Users\\gauravk\\Documents\\Test-File.txt \u2014 hash mismatch (high risk)"
+  },
+  {
+    "time": "2026-03-24T12:20:50.742108",
+    "type": "danger",
+    "msg": "VIOLATION: C:\\Users\\gauravk\\Documents\\Test-File.txt \u2014 hash mismatch (high risk)"
+  }
+]
