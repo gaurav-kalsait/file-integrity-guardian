@@ -1,24 +1,45 @@
-# Logs
-logs
+# ===========================
+# File Integrity Guardian
+# .gitignore
+# ===========================
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+*.egg
+venv/
+env/
+.venv/
+
+# Backend data (local scan data — do NOT upload)
+backend/fig_data/
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+frontend/.vite/
 *.log
 npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
-pnpm-debug.log*
-lerna-debug.log*
 
-node_modules
-dist
-dist-ssr
-*.local
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
 
-# Editor directories and files
-.vscode/*
-!.vscode/extensions.json
-.idea
+# OS files
 .DS_Store
-*.suo
-*.ntvs*
-*.njsproj
-*.sln
-*.sw?
+Thumbs.db
+desktop.ini
+
+# Environment
+.env
+.env.local
+.env.production
+
+# Generated PPT (optional — remove this line if you want to include it)
+*.pptx
