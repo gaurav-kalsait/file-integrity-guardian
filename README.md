@@ -22,11 +22,12 @@
 
 | Dashboard | Scan Results |
 |:---------:|:------------:|
-| ![Dashboard](c:\Users\gauravk\Pictures\Screenshots\Screenshot 2026-03-24 114311.png) | ![Scan](screenshots/scan-results.png) |
+|<img width="1835" height="1420" alt="Screenshot 2026-03-24 114343" src="https://github.com/user-attachments/assets/0b74399a-8b9d-43cf-9a64-3b10f98b3800" /> |<img width="1824" height="1481" alt="Screenshot 2026-03-24 114311" src="https://github.com/user-attachments/assets/ca9cbbf6-d887-4274-83df-b250f0c554dc" /> |
+
 
 | File Browser Modal | Hash Comparison |
 |:------------------:|:---------------:|
-| ![Browser](screenshots/file-browser.png) | ![Hash](screenshots/hash-comparison.png) |
+|<img width="1793" height="1396" alt="Screenshot 2026-03-24 114851" src="https://github.com/user-attachments/assets/ce2deb49-6fe4-472c-a25e-3760e4047bc6" /> | <img width="1769" height="1284" alt="Screenshot 2026-03-24 114739" src="https://github.com/user-attachments/assets/9bde0730-3268-4a9c-9ce1-daf98f5ffc6b" /> |
 
 </div>
 
